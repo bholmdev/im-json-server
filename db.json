@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "",
+      "image": "",
+      "password": "",
+      "company": "",
+      "department": "",
+      "supervisor": ""
+    }
+  ],
+  "departments": [
+    {
+      "id": 0,
+      "title": ""
+    }
+  ],
+  "inventoryGroup": [
+    {
+      "id": 0,
+      "title": ""
+    }
+  ],
+  "inventoryItems": [
+    {
+      "id": 0,
+      "type": "",
+      "name": "",
+      "quantity": 0
+    }
+  ]
+}
