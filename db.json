@@ -19,8 +19,8 @@
   "inventoryGroup": [
     {
       "id": 0,
-      "title": "test",
-      "desciption": "test",
+      "title": "",
+      "desciption": "",
       "inventoryItems": [
         {
           "id": 0,
