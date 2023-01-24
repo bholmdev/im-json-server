@@ -19,15 +19,16 @@
   "inventoryGroup": [
     {
       "id": 0,
-      "title": ""
-    }
-  ],
-  "inventoryItems": [
-    {
-      "id": 0,
-      "type": "",
-      "name": "",
-      "quantity": 0
+      "title": "test",
+      "desciption": "test",
+      "inventoryItems": [
+        {
+          "id": 0,
+          "type": "",
+          "name": "",
+          "quantity": 0
+        }
+      ]
     }
   ]
 }
